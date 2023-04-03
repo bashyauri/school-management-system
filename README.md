@@ -1,1 +1,1 @@
-An application that handles all the activities of student including admission promotion etc.
+An application that handles all the activities of Student including admission,promotion and payments etc.
